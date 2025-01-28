@@ -1,0 +1,1 @@
+Bem-vindo ao repositório do projeto Aprenser. Este projeto tem como objetivo apresentar informações institucionais, cursos oferecidos, localização e facilitar a comunicação entre a escola, alunos e comunidade.
